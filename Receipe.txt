@@ -1,0 +1,7 @@
+# EmployeeDemo
+
+public class Employee{
+     private int empId;
+     private String empString;
+     private float salary;
+  }
