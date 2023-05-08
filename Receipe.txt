@@ -4,4 +4,10 @@ public class Employee{
      private int empId;
      private String empString;
      private float salary;
+     
+     public Employee(int empId,String empString,float salary){
+          this.empId=empId;
+          this.empString=empString;
+          this.salary=salary;
+      }
   }
